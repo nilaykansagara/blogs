@@ -1,9 +1,3 @@
----
-title: "When AI Went Rogue: How One Word Cost Me 5x More Than Expected"
-date: 2025-04-29
-tags: [AI, Prompt Engineering, Claude, Opus, Developer Experience, Cost Optimization]
----
-
 # 💥 When AI Assumed Too Much: How One Vague Prompt Cost Me 5x More Than Expected
 
 > *"If you don’t tell AI exactly what you want, don’t be surprised when it gives you *everything* you didn’t ask for... with a hefty invoice."*
