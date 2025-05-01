@@ -6,14 +6,14 @@
 
 ## 🚀 The Ambitious AI-Powered Hiring Project
 
-It all started with a dream—a dream to **automate the hiring process** using AI.
+It all started with a dream, a dream to **automate the hiring process** using AI.
 
 I was building this exciting project where AI takes interviews, not just with boring Q&A, but **with real developer tasks**. Think:
 
-- Test-Driven Development (TDD) ✅  
+- Test Driven Development (TDD) ✅  
 - Clean Code principles ✨  
 - Code Refactoring 🔄  
-- Real-time code reviews on candidates' **KATA GitHub repositories** 🧑‍💻  
+- Real time code reviews on candidates' **KATA GitHub repositories** 🧑‍💻  
 
 Yes, it’s as cool as it sounds. My AI could analyze a candidate’s repo, evaluate their coding style, give feedback, and even challenge them with coding tasks. But I wanted to go **one step further**...
 
@@ -21,7 +21,7 @@ Yes, it’s as cool as it sounds. My AI could analyze a candidate’s repo, eval
 
 ## 💡 Enter MCP: The Repo Whisperer
 
-To take this up a notch, I introduced **MCP** — my custom tool that fetches a candidate’s GitHub repo and analyzes it like a seasoned reviewer. It checks:
+To take this up a notch, I introduced **MCP** - my custom tool that fetches a candidate’s GitHub repo and analyzes it like a seasoned reviewer. It checks:
 
 - How clean the code is 🧼  
 - Opportunities to refactor 🧠  
@@ -34,7 +34,7 @@ Everything was going great... until I said one word:
 
 ---
 
-## 🤯 The One-Word Prompt That Broke the Budget
+## 🤯 The One Word Prompt That Broke the Budget
 
 I noticed the AI wasn't giving me good enough tasks based on the repo. So, I casually typed:
 
@@ -55,8 +55,6 @@ Let me explain why that matters:
 - **Sonnet** is powerful and smart… and affordable.  
 - **Opus** is like Sonnet on steroids… and it charges like it just came out of a 5-star startup bootcamp in Silicon Valley.
 
-Every time I hit “Enhance,” the AI happily summoned Opus—like a genie from a diamond-encrusted lamp.
-
 And I, unknowingly, rubbed that lamp over and over again while testing.  
 Result? **Costs ballooned to 5x my expected budget.** 🧨
 
@@ -69,9 +67,9 @@ Here’s what I learned the hard way:
 ### 1. **Don’t Let AI Choose the Model**
 If you don’t specify the model explicitly, AI tools might default to the **most powerful (and expensive)** one available. They want to be helpful. They don’t care about your credit card.
 
-### 2. **Prompts Matter – A Lot**
+### 2. **Prompts Matter A Lot**
 "Enhance" is vague.  
-"Generate three TDD-based refactoring tasks for a JavaScript KATA repo using Sonnet model" is specific.  
+"Generate three TDD based refactoring tasks for a JavaScript KATA repo using Sonnet model" is specific.  
 When it comes to AI:  
 🗝️ **Specific is smart. Vague is expensive.**
 
@@ -88,7 +86,7 @@ Here’s the quote I now live by:
 > **"If clients aren't specific, developers ask questions.  
 But if prompts aren’t specific, AI starts building without asking."**
 
-This is why prompt engineering isn’t just a trendy skill—it’s a survival tactic.
+This is why prompt engineering isn’t just a trendy skill, it’s a survival tactic.
 
 ---
 
@@ -103,23 +101,23 @@ This is why prompt engineering isn’t just a trendy skill—it’s a survival t
 
 ## 📝 Final Thoughts
 
-Building with AI is **wildly powerful**—but also **wildly unpredictable** if you don't take control. You wouldn’t give your credit card to a stranger with the note “Get me something cool,” would you?
+Building with AI is **wildly powerful**, but also **wildly unpredictable** if you don't take control. You wouldn’t give your credit card to a stranger with the note “Get me something cool,” would you?
 
 So why do that with AI? 😅
 
-👉 **AI is excellent at coding, generating tasks, and analyzing logic**. But when it comes to making decisions—especially ones involving cost, performance trade-offs, or user intent—**AI is not your best decision-maker**.
+👉 **AI is excellent at coding, generating tasks, and analyzing logic**. But when it comes to making decisions—especially ones involving cost, performance trade-offs, or user intent, **AI is not your best decision-maker**.
 
 It doesn’t ask. It assumes. And that’s where the danger lies.
 
 🎯 **Be clear. Be specific. Be in control.**
 
-Or else you’ll end up like me—**sipping coffee at midnight**, reading billing dashboards, and whispering **“why…?” into the void**.
+Or else you’ll end up like me, **sipping coffee at midnight**, reading billing dashboards, and whispering **“why…?” into the void**.
 
 ---
 
 ## 💬 Have You Ever Been Burned by AI?
 
-If you've had a similar “Oh no!” moment with AI, hit the comments—I’d love to know I’m not the only one! 😄👇
+If you've had a similar “Oh no!” moment with AI, hit the comments, I’d love to know I’m not the only one! 😄👇
 
 And if you're just starting out with AI-powered tools, remember:  
 🧠 A well-crafted prompt is worth more than a thousand API calls.
