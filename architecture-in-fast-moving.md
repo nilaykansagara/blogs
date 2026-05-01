@@ -272,7 +272,7 @@ Because in the end:
 ---
 
 > Architecture defines systems, but who ensures the right decisions are made?  
-> 👉 Read: **🧑‍🤝‍🧑 Keeping Humans at the Core: A Practical Way to Use AI Effectively**
+> 👉 Read: **[🧑‍🤝‍🧑 Keeping Humans at the Core: A Practical Way to Use AI Effectively](https://github.com/nilaykansagara/blogs/blob/main/keeping-humans-at-core.md)**
 
 ## 🙏 Special Thanks
 
