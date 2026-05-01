@@ -273,10 +273,10 @@ or just generating it?
 ---
 
 > Want to understand how to prevent systems from turning into a mess?  
-> 👉 Read: **🧠 Architecture in a Fast-Moving World: Why Decisions Matter More Than Code**
+> 👉 Read: **[🧠 Architecture in a Fast-Moving World: Why Decisions Matter More Than Code](https://github.com/nilaykansagara/blogs/blob/main/architecture-in-fast-moving.md)**
 
 > Curious how these messy systems actually happen in real-world delivery?  
-> 👉 Read: **⚖️ The Balancing Act: Why Good Software Is About Smart Trade-offs**
+> 👉 Read: **[⚖️ The Balancing Act: Why Good Software Is About Smart Trade-offs](https://github.com/nilaykansagara/blogs/blob/main/the-balancing-act.md)**
 
 ## 🙏 Special Thanks
 
